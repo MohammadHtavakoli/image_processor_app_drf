@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175c4122-fa47-4454-9f76-0d6d66f60f69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/image_processor_app_drf/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_processor_app_drf/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image_processor_app_drf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_processor_app_drf/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +106,7 @@
       <updated>1739356340269</updated>
       <workItem from="1739356341312" duration="3587000" />
       <workItem from="1739360215749" duration="11000" />
+      <workItem from="1739360337607" duration="18000" />
     </task>
     <servers />
   </component>
